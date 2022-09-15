@@ -3,3 +3,7 @@ button {
     background: pink;
     border-radius: 10px;
 }
+
+body {
+     background-color: yellow;
+}
