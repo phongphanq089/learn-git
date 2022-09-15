@@ -7,3 +7,8 @@ button {
 body {
      background-color: yellow;
 }
+input {
+     padding: 30px;
+     background-color: brown;
+     border-radius: 10px;
+}
