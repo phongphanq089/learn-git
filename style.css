@@ -1,4 +1,15 @@
-h1 {
+.tool {
      background-color: aquamarine;
-     color: antiquewhite;
+     padding: 3rem;
+     display: flex;
+     flex-direction: column;
+     gap: 2rem;
+}
+
+.extention {
+     background-color: bisque;
+     display: flex;
+     flex-direction: column;
+     padding: 2rem;
+     gap: 2rem;
 }
